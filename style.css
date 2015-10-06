@@ -1,3 +1,27 @@
 body {
-    background-color : red;
+    background-color: #BBDEFB;
+    padding-left: 20px;
+    padding-top: 20px; 
+    padding-right: 20px;
+}
+
+h3 {
+	color: #0D47A1;
+	font-family: Verdana;
+	font-size: 50px
+}
+
+h4 {
+	color: #1565C0;
+	font-size: 25px;
+	font-family: Verdana
+}
+
+p {
+	font-family: Verdana;
+	font-size: 16px
+}
+
+li {
+	list-style-type: circle;
 }
