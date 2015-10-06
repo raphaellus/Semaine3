@@ -8,13 +8,16 @@ body {
 h3 {
 	color: #0D47A1;
 	font-family: Verdana;
-	font-size: 50px
+	font-size: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 h4 {
 	color: #1565C0;
 	font-size: 25px;
-	font-family: Verdana
+	font-family: Verdana;
+	padding-top: 20px;
 }
 
 p {
@@ -24,4 +27,5 @@ p {
 
 li {
 	list-style-type: circle;
+	padding-top: 5px;
 }
